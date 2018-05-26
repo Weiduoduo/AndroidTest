@@ -38,7 +38,6 @@ public class MainActivity extends Activity implements OnClickListener{
 	private static final String SyServiceAction="com.android.smart.terminal.iptv.aidl.ServiceCfg";
 	private static final String packageName="com.android.smart.terminal.iptv";
 	public static final String TAG="Deng";
-	//test git
 	Handler mhandler = new Handler(){
 		@Override
 		public void handleMessage(Message msg) {
